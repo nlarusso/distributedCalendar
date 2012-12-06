@@ -1,0 +1,11 @@
+0	4000	4000	#id	HOLD_ON_TIME	MEAN_WAIT_TIME
+0	127.0.0.1:6000	localhome0
+1	127.0.0.1:6001	localhome1
+2	127.0.0.1:6002	localhome2
+
+#0	4000	4000	#id	HOLD_ON_TIME	MEAN_WAIT_TIME
+#0	128.111.44.227	merrimack.cs.ucsb.edu
+#1	128.111.43.37	bart.cs.ucsb.edu
+#2	128.111.43.38	homer.cs.ucsb.edu
+#3	128.111.43.54	marge.cs.ucsb.edu
+#4	128.111.43.56	butthead.cs.ucsb.edu
